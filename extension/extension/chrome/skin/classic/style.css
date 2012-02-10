@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+
+.default
+{
+	color: green;
+}
+
+.test
+{
+	color: red;
+}

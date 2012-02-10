@@ -1,0 +1,3 @@
+content	extension chrome/content/
+skin	extension classic/1.0	chrome/skin/classic/
+overlay	chrome://firebug/content/firebugOverlay.xul			chrome://extension/content/extension.xul
